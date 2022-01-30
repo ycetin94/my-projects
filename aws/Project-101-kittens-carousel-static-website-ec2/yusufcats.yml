@@ -14,7 +14,7 @@ Resources:
         - aa.first
       Tags:
         - Key: Name
-          Value: zehra
+          Value: YUSUF
       UserData:
         Fn::Base64: |
           #!/bin/bash
